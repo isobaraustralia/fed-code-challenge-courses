@@ -1,13 +1,13 @@
 # Isobar Front End Code Challenge
 
-Congratulations on passing the first round interview at Isobar!  We now love you to complete a code challenge to show us what you can do!
+Congratulations on passing the first round interview at Isobar!  We would now love you to complete a code challenge to show us what you can do!
 
-Please use your preferred JS framework (React, Vue, jQuery or Vanilla JS) to create a web application.
+Please use your preferred JS framework (React, Vue, jQuery or Vanilla JS) to create a small web application.
 
 We strongly recommend that you cap the time you spend on this challenge to 4hrs and showcase your strength and your coding standards while fulfilling the requirements for the challenge.
 
 ## The Challenge
-Use the data provided to create a small web app. You can pick as many/or as few of the criteria below to build the app.
+Use the data provided to create a small web application. You can pick as many/or as few of the criteria below to build the application within the recommended time cap.
 
 1. It should display list of all available courses
 2. It should have a search field where you can search and filter available courses by typing in the search field
@@ -62,11 +62,12 @@ Use the data provided to create a small web app. You can pick as many/or as few 
 ```
 
 ## Assessment Criteria
-* We will assess your code based on the quality of the work you have produced and not based on how many of the criteria you have completed.
+* Quality over quantity, we will assess your code based on the quality of the work you have produced and not based on how many of the criteria you have completed.
 * Unit testing is important, test parts of the app that you think requires testing. We don't expect 100% test coverage but all major pieces of functionality should have unit tests.
-* We value UI skills so try to showcase your UI Skills. It is acceptable to use a framework for creating layout.
+* We value UI skills so give focus to showcase these. It is acceptable to use a framework for creating layout.
 * Please provide a readme file and explain your approach to the challenge and your reasons for picking certain criteria over others.
-* Code must be clean and well documented. If your code is self explanatory then there is no need for comments. 
+* Code must be clean and well documented. If your code is self explanatory then there is no need for comments.
+* While it is acceptable to use helper libraries keep in we want to assess your ability so be weary of over reliance on these. 
 
 
 ## Submission
